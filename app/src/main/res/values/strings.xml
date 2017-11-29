@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">chitchat.</string>
+    <!--Log in activity-->
+    <string name="sign_up_text">Sign up</string>
+    <string name="login_button_label">Log in</string>
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Email</string>
+    <string name="login_error_title">Error!</string>
+    <string name="login_error_message">Please make sure you enter an email address and password!</string>
+    <!--Sign up activity-->
+    <string name="sign_up_button_label">Sign up</string>
+    <string name="signup_error_message">Please make sure you enter an email address and password!</string>
+    <string name="signup_error_title">Error!</string>
+    <!--Menu-->
+    <string name="action_logout">Logout</string>
+    <!--Other-->
+    <string name="add_item">Submit post!</string>
+</resources>

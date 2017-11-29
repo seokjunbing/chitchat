@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF6262</color>
+    <color name="colorPrimaryDark">#ba000d</color>
+    <color name="colorAccent">#03a9f4</color>
+
+    <color name="upvoteColor">#ff6f00</color>
+    <color name="downvoteColor">#0d47a1</color>
+    <color name="novoteColor">#b0bec5</color>
+
+    <color name="background">#f5f5f5</color>
+</resources>
